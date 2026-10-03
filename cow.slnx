@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cow/cow.vcxproj" Id="baeeb0ee-551b-4fd7-8734-769d593a8f94" />
+</Solution>
